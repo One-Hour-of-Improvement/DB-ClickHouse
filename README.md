@@ -28,6 +28,7 @@ python advanced_clickhouse_demo.py
 
 ## Metadata
 
-|Key|Value|
+| Key | Value |
+|-----|-------|
 | # of 1 Hour of Improvement | 36 |
 | Learnt at | 2025-04-03 |
